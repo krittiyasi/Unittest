@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\GitHub\Unittest\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+C:\Users\HP\Documents\GitHub\Unittest\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\HP\Documents\GitHub\Unittest\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\Unittest\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Unittest\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+C:\Users\HP\Documents\GitHub\Unittest\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb
